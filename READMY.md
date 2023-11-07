@@ -1,0 +1,1 @@
+Здесь будут домашние задания по Ruby on Rails из курса "Основы Ruby" https://ru.hexlet.io/courses/ruby-basics
